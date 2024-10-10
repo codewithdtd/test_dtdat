@@ -1,0 +1,5 @@
+.form .error {
+    border: 1px solid red;
+    background-color: #ffdfdf;
+    color: red;
+} 
